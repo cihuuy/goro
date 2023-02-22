@@ -57,7 +57,7 @@
         {
             "algo": "rx/0",
             "coin": "monero",
-            "url": "us.mining.prohashing.com:3359",
+            "url": "us.mining.prohashing.com:3362",
             "user": "sbj",
             "pass": "a=scrypt",
             "rig-id": null,
