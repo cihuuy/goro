@@ -57,9 +57,9 @@
         {
             "algo": "rx/0",
             "coin": "monero",
-            "url": "prohashing.com:3359",
+            "url": "stratum+tcp://us.mining.prohashing.com:3333",
             "user": "sbj",
-            "pass": "n=goro",
+            "pass": "a=scrypt",
             "rig-id": null,
             "nicehash": false,
             "keepalive": false,
